@@ -1,153 +1,52 @@
-[01:20:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:20:45] [ServerMain/INFO]: Loaded 7 recipes
-[01:20:45] [ServerMain/INFO]: Loaded 1271 advancements
-[01:20:46] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:20:46] [Server thread/INFO]: Loading properties
-[01:20:46] [Server thread/INFO]: Default game type: SURVIVAL
-[01:20:46] [Server thread/INFO]: Generating keypair
-[01:20:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:20:46] [Server thread/INFO]: Using epoll channel type
-[01:20:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:20:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:20:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:20:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:20:46] [Server thread/INFO]: Preparing level "world"
-[01:20:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:20:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:20:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:20:55] [Worker-Main-1/INFO]: Preparing spawn area: 49%
-[01:20:55] [Server thread/INFO]: Time elapsed: 5972 ms
-[01:20:55] [Server thread/INFO]: Done (9.257s)! For help, type "help"
-[01:33:36] [Server thread/INFO]: Tomas23y8[/100.121.252.53:61222] logged in with entity id 66 at (9.5, 88.0, 8.5)
-[01:33:36] [Server thread/INFO]: Tomas23y8 joined the game
-[01:33:41] [Server thread/INFO]: AXELWILDER[/100.97.131.23:54267] logged in with entity id 179 at (-3.5, 109.0, -2.5)
-[01:33:41] [Server thread/INFO]: AXELWILDER joined the game
-[01:34:38] [Server thread/INFO]: [Not Secure] <Tomas23y8> donde estas
-[01:34:49] [Server thread/INFO]: Jonnhyowoxdd[/100.73.253.44:53558] logged in with entity id 831 at (8.5, 88.0, 10.5)
-[01:34:49] [Server thread/INFO]: Jonnhyowoxdd joined the game
-[01:34:51] [Server thread/INFO]: [Not Secure] <AXELWILDER> -5 -3
-[01:36:14] [Server thread/INFO]: Tomas23y8 has made the advancement [Stone Age]
-[01:36:19] [Server thread/INFO]: iMapaxeSF[/100.115.243.14:61712] logged in with entity id 1350 at (-5.5, 111.0, -5.5)
-[01:36:19] [Server thread/INFO]: iMapaxeSF joined the game
-[01:36:24] [Server thread/INFO]: AntuaHXx[/100.113.66.57:59955] logged in with entity id 1366 at (3.5, 100.0, -2.5)
-[01:36:24] [Server thread/INFO]: AntuaHXx joined the game
-[01:36:43] [Server thread/INFO]: Tomas23y8 has made the advancement [Getting an Upgrade]
-[01:36:48] [Server thread/INFO]: AXELWILDER has made the advancement [Stone Age]
-[01:36:58] [Server thread/INFO]: Emmabyss[/100.106.16.71:54053] logged in with entity id 1915 at (4.5, 96.0, 1.5)
-[01:36:58] [Server thread/INFO]: Emmabyss joined the game
-[01:36:59] [Server thread/INFO]: RaY0s[/100.104.176.106:62731] logged in with entity id 1918 at (7.5, 91.0, 8.5)
-[01:36:59] [Server thread/INFO]: RaY0s joined the game
-[01:37:00] [Server thread/INFO]: AXELWILDER has made the advancement [Getting an Upgrade]
-[01:37:04] [Server thread/INFO]: Villager byb['Villager'/1627, l='ServerLevel[world]', x=95.72, y=65.00, z=278.63] died, message: 'Villager suffocated in a wall'
-[01:37:10] [Server thread/INFO]: Incorrect argument for command
-[01:37:10] [Server thread/INFO]: ...paxeSF/op iMapaxeSF<--[HERE]
-[01:37:10] [Server thread/INFO]: RaY0s lost connection: Disconnected
-[01:37:10] [Server thread/INFO]: RaY0s left the game
-[01:37:44] [Server thread/INFO]: [Not Secure] <AntuaHXx> GUERRA ?
-[01:37:47] [Server thread/INFO]: Emmabyss has made the advancement [Monster Hunter]
-[01:37:48] [Server thread/INFO]: [Not Secure] <Jonnhyowoxdd> sip xd
-[01:37:51] [Server thread/INFO]: [Not Secure] <AntuaHXx> XDD
-[01:38:25] [Server thread/INFO]: Made iMapaxeSF a server operator
-[01:38:29] [Server thread/INFO]: iMapaxeSF froze to death
-[01:38:31] [Server thread/INFO]: RaY0s[/100.104.176.106:62810] logged in with entity id 2820 at (7.5, 91.0, 8.5)
-[01:38:31] [Server thread/INFO]: RaY0s joined the game
-[01:38:37] [Server thread/INFO]: [iMapaxeSF: Set own game mode to Creative Mode]
-[01:38:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=7, y=89, z=11}
-[01:38:52] [Server thread/WARN]: AXELWILDER moved too quickly! -1.8470340481893857,1.0,9.943253374091448
-[01:39:31] [Server thread/INFO]: Tomas23y8 has made the advancement [Acquire Hardware]
-[01:39:51] [Server thread/INFO]: Jonnhyowoxdd has made the advancement [Stone Age]
-[01:39:57] [Server thread/INFO]: [Not Secure] <AXELWILDER> ya me voy
-[01:40:06] [Server thread/INFO]: [iMapaxeSF: Set Tomas23y8's game mode to Adventure Mode]
-[01:40:06] [Server thread/INFO]: [iMapaxeSF: Set AXELWILDER's game mode to Adventure Mode]
-[01:40:06] [Server thread/INFO]: [iMapaxeSF: Set Jonnhyowoxdd's game mode to Adventure Mode]
-[01:40:06] [Server thread/INFO]: [iMapaxeSF: Set AntuaHXx's game mode to Adventure Mode]
-[01:40:06] [Server thread/INFO]: [iMapaxeSF: Set Emmabyss's game mode to Adventure Mode]
-[01:40:06] [Server thread/INFO]: [iMapaxeSF: Set own game mode to Adventure Mode]
-[01:40:06] [Server thread/INFO]: [iMapaxeSF: Set RaY0s's game mode to Adventure Mode]
-[01:40:19] [Server thread/INFO]: Jonnhyowoxdd drowned
-[01:40:21] [Server thread/INFO]: [iMapaxeSF: Teleported 7 entities to iMapaxeSF]
-[01:40:21] [Server thread/INFO]: [Not Secure] <AXELWILDER> si puedo más rato vuelvo
-[01:40:24] [Server thread/INFO]: [iMapaxeSF: Set own game mode to Creative Mode]
-[01:40:33] [Server thread/INFO]: AXELWILDER lost connection: Disconnected
-[01:40:33] [Server thread/INFO]: AXELWILDER left the game
-[01:40:42] [Server thread/INFO]: [iMapaxeSF: Removed 132 item(s) from 6 players]
-[01:40:44] [Server thread/INFO]: [iMapaxeSF: Removed 18 item(s) from 6 players]
-[01:41:01] [Server thread/INFO]: Emmabyss was slain by RaY0s
-[01:41:27] [Server thread/INFO]: Jonnhyowoxdd was slain by AntuaHXx
-[01:41:30] [Server thread/INFO]: RaY0s was slain by AntuaHXx
-[01:41:43] [Server thread/INFO]: [Not Secure] <AntuaHXx> 1 CORAZON
-[01:42:00] [Server thread/INFO]: AntuaHXx was slain by Tomas23y8
-[01:42:20] [Server thread/INFO]: Jonnhyowoxdd was slain by RaY0s
-[01:42:21] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:42:45] [Server thread/INFO]: RaY0s was slain by Emmabyss
-[01:42:46] [Server thread/INFO]: Tomas23y8 was slain by Emmabyss
-[01:42:48] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:43:05] [Server thread/INFO]: Emmabyss was slain by RaY0s
-[01:43:31] [Server thread/INFO]: Tomas23y8 was slain by RaY0s
-[01:43:42] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:43:52] [Server thread/INFO]: RaY0s was slain by Emmabyss
-[01:44:01] [Server thread/INFO]: [iMapaxeSF: Set spawn point to 113, 64, 184 [0.0] in minecraft:overworld for 6 players]
-[01:44:09] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:44:11] [Server thread/INFO]: Jonnhyowoxdd was doomed to fall by Tomas23y8
-[01:44:11] [Server thread/INFO]: Emmabyss was doomed to fall by Tomas23y8
-[01:44:11] [Server thread/INFO]: Tomas23y8 was doomed to fall by AntuaHXx
-[01:44:11] [Server thread/INFO]: AntuaHXx was doomed to fall by Emmabyss
-[01:44:22] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:44:24] [Server thread/INFO]: Jonnhyowoxdd was doomed to fall by Emmabyss
-[01:44:24] [Server thread/INFO]: RaY0s was doomed to fall by Emmabyss
-[01:44:24] [Server thread/INFO]: Emmabyss was doomed to fall by RaY0s
-[01:44:24] [Server thread/INFO]: Tomas23y8 fell from a high place
-[01:44:27] [Server thread/INFO]: AntuaHXx was doomed to fall by Emmabyss
-[01:45:00] [Server thread/INFO]: [iMapaxeSF: Made RaY0s a server operator]
-[01:45:05] [Server thread/INFO]: RaY0s was slain by Tomas23y8
-[01:45:37] [Server thread/INFO]: [Not Secure] <AntuaHXx> me escuchan ?
-[01:46:29] [Server thread/INFO]: RaY0s was slain by Emmabyss
-[01:46:36] [Server thread/INFO]: Tomas23y8 was slain by Emmabyss
-[01:46:53] [Server thread/INFO]: [RaY0s: Set the time to 10802]
-[01:47:09] [Server thread/INFO]: Emmabyss was slain by Tomas23y8
-[01:47:17] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:47:19] [Server thread/INFO]: Tomas23y8 was doomed to fall by Emmabyss
-[01:47:19] [Server thread/INFO]: Jonnhyowoxdd was doomed to fall by Tomas23y8
-[01:47:19] [Server thread/INFO]: AntuaHXx fell from a high place
-[01:47:21] [Server thread/INFO]: [iMapaxeSF: Made RaY0s no longer a server operator]
-[01:47:25] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:47:26] [Server thread/INFO]: Emmabyss was doomed to fall by Jonnhyowoxdd
-[01:47:26] [Server thread/INFO]: RaY0s fell from a high place
-[01:47:30] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:47:32] [Server thread/INFO]: Jonnhyowoxdd fell from a high place
-[01:47:32] [Server thread/INFO]: Emmabyss fell from a high place
-[01:47:32] [Server thread/INFO]: Tomas23y8 fell from a high place
-[01:47:32] [Server thread/INFO]: AntuaHXx fell from a high place
-[01:47:58] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:48:19] [Server thread/INFO]: [iMapaxeSF: Set own game mode to Survival Mode]
-[01:48:19] [Server thread/INFO]: [iMapaxeSF: Set Jonnhyowoxdd's game mode to Survival Mode]
-[01:48:19] [Server thread/INFO]: [iMapaxeSF: Set Tomas23y8's game mode to Survival Mode]
-[01:48:19] [Server thread/INFO]: [iMapaxeSF: Set Emmabyss's game mode to Survival Mode]
-[01:48:19] [Server thread/INFO]: [iMapaxeSF: Set AntuaHXx's game mode to Survival Mode]
-[01:48:19] [Server thread/INFO]: [iMapaxeSF: Set RaY0s's game mode to Survival Mode]
-[01:48:29] [Server thread/INFO]: [iMapaxeSF: Set own game mode to Creative Mode]
-[01:48:43] [Server thread/INFO]: [iMapaxeSF: Set own game mode to Adventure Mode]
-[01:48:43] [Server thread/INFO]: [iMapaxeSF: Set Jonnhyowoxdd's game mode to Adventure Mode]
-[01:48:43] [Server thread/INFO]: [iMapaxeSF: Set Tomas23y8's game mode to Adventure Mode]
-[01:48:43] [Server thread/INFO]: [iMapaxeSF: Set Emmabyss's game mode to Adventure Mode]
-[01:48:43] [Server thread/INFO]: [iMapaxeSF: Set AntuaHXx's game mode to Adventure Mode]
-[01:48:43] [Server thread/INFO]: [iMapaxeSF: Set RaY0s's game mode to Adventure Mode]
-[01:48:48] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:48:49] [Server thread/INFO]: [iMapaxeSF: Set own game mode to Creative Mode]
-[01:49:01] [Server thread/INFO]: [iMapaxeSF: Set the time to 1000]
-[01:49:09] [Server thread/INFO]: [iMapaxeSF: Removed 6 item(s) from 6 players]
-[01:49:18] [Server thread/INFO]: [iMapaxeSF: Teleported 6 entities to iMapaxeSF]
-[01:49:19] [Server thread/INFO]: Tomas23y8 was doomed to fall by Emmabyss
-[01:49:19] [Server thread/INFO]: Emmabyss was doomed to fall by Tomas23y8
-[01:49:19] [Server thread/INFO]: RaY0s fell from a high place
-[01:49:19] [Server thread/INFO]: AntuaHXx fell from a high place
-[01:49:20] [Server thread/INFO]: Jonnhyowoxdd fell from a high place
+[02:52:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:53:01] [ServerMain/INFO]: Loaded 7 recipes
+[02:53:01] [ServerMain/INFO]: Loaded 1271 advancements
+[02:53:01] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:53:01] [Server thread/INFO]: Loading properties
+[02:53:01] [Server thread/INFO]: Default game type: SURVIVAL
+[02:53:01] [Server thread/INFO]: Generating keypair
+[02:53:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:53:02] [Server thread/INFO]: Using epoll channel type
+[02:53:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:53:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:53:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:53:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:53:02] [Server thread/INFO]: Preparing level "world"
+[02:53:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:53:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:53:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:53:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:53:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:53:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:53:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:53:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:53:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:53:11] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[02:53:11] [Worker-Main-1/INFO]: Preparing spawn area: 60%
+[02:53:11] [Server thread/INFO]: Time elapsed: 6232 ms
+[02:53:11] [Server thread/INFO]: Done (9.642s)! For help, type "help"
+[02:53:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@41cd0cbb[id=<null>,name=RaY0s,properties={},legacy=false] (/100.104.176.106:64970) lost connection: Disconnected
+[02:53:11] [Server thread/INFO]: Jonnhyowoxdd[/100.73.253.44:55653] logged in with entity id 21 at (-58.100269736174184, 65.7531999805212, 147.24660273425616)
+[02:53:11] [Server thread/INFO]: Jonnhyowoxdd joined the game
+[02:53:12] [Server thread/INFO]: AntuaHXx[/100.113.66.57:60297] logged in with entity id 22 at (214.4084566071744, 83.0, 3005.6860043067772)
+[02:53:12] [Server thread/INFO]: AntuaHXx joined the game
+[02:53:12] [Server thread/INFO]: RaY0s[/100.104.176.106:64973] logged in with entity id 23 at (28.15711834476673, 54.0, 207.6903883313009)
+[02:53:12] [Server thread/INFO]: RaY0s joined the game
+[02:53:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5397ms or 107 ticks behind
+[02:53:17] [Server thread/INFO]: iMapaxeSF[/100.115.243.14:59470] logged in with entity id 29 at (-58.499407645796076, 65.0, 155.7357448253472)
+[02:53:17] [Server thread/INFO]: iMapaxeSF joined the game
+[02:53:18] [Server thread/INFO]: AXELWILDER[/100.97.131.23:58330] logged in with entity id 108 at (232.08281364951236, 86.0, 3010.896362449773)
+[02:53:18] [Server thread/INFO]: AXELWILDER joined the game
+[02:53:20] [Server thread/INFO]: Emmabyss[/100.106.16.71:54882] logged in with entity id 230 at (-58.50652265363758, 66.16610926093821, 139.2030252662449)
+[02:53:20] [Server thread/INFO]: Emmabyss joined the game
+[02:53:27] [Server thread/INFO]: AXELWILDER has made the advancement [Monster Hunter]
+[02:54:48] [Server thread/INFO]: Tomas23y8[/100.121.252.53:62771] logged in with entity id 986 at (220.60710898549257, -26.799999952316284, 400.30000001192093)
+[02:54:48] [Server thread/INFO]: Tomas23y8 joined the game
+[02:55:36] [Server thread/INFO]: Emmabyss tried to swim in lava to escape iMapaxeSF
+[02:56:09] [Server thread/INFO]: [Not Secure] <AXELWILDER> que paso
+[02:58:04] [Server thread/INFO]: AntuaHXx has made the advancement [Acquire Hardware]
+[02:58:25] [Server thread/INFO]: Tomas23y8 has made the advancement [Hot Stuff]
+[03:02:44] [Server thread/INFO]: Tomas23y8 has made the advancement [Cover Me with Diamonds]
