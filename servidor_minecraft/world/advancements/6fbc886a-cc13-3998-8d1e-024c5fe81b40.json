@@ -1204,6 +1204,7 @@
       "minecraft:blaze": "2025-04-20 02:32:09 +0000",
       "minecraft:skeleton": "2025-04-20 02:17:52 +0000",
       "minecraft:hoglin": "2025-04-20 02:31:46 +0000",
+      "minecraft:magma_cube": "2025-04-20 03:07:00 +0000",
       "minecraft:spider": "2025-04-20 02:20:59 +0000",
       "minecraft:wither_skeleton": "2025-04-20 02:34:33 +0000",
       "minecraft:piglin": "2025-04-20 02:47:27 +0000",
@@ -1359,7 +1360,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-20 02:25:20 +0000",
       "minecraft:nether_wastes": "2025-04-20 02:23:43 +0000",
-      "minecraft:soul_sand_valley": "2025-04-20 02:31:34 +0000"
+      "minecraft:soul_sand_valley": "2025-04-20 02:31:34 +0000",
+      "minecraft:basalt_deltas": "2025-04-20 03:05:15 +0000"
     },
     "done": false
   },
