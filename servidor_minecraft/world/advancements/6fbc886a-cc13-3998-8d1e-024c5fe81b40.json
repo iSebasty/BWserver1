@@ -9,10 +9,17 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-20 01:36:20 +0000",
       "minecraft:frozen_river": "2025-04-20 01:38:49 +0000",
+      "minecraft:birch_forest": "2025-04-20 03:36:58 +0000",
+      "minecraft:beach": "2025-04-20 03:32:27 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-20 03:34:21 +0000",
+      "minecraft:river": "2025-04-20 03:35:58 +0000",
       "minecraft:snowy_plains": "2025-04-20 01:39:15 +0000",
       "minecraft:stony_shore": "2025-04-20 01:38:46 +0000",
       "minecraft:snowy_taiga": "2025-04-20 02:02:30 +0000",
+      "minecraft:forest": "2025-04-20 03:36:54 +0000",
       "minecraft:ice_spikes": "2025-04-20 01:54:22 +0000",
+      "minecraft:jungle": "2025-04-20 03:33:35 +0000",
+      "minecraft:ocean": "2025-04-20 03:35:54 +0000",
       "minecraft:deep_dark": "2025-04-20 02:08:44 +0000"
     },
     "done": false
@@ -1208,6 +1215,7 @@
       "minecraft:spider": "2025-04-20 02:20:59 +0000",
       "minecraft:wither_skeleton": "2025-04-20 02:34:33 +0000",
       "minecraft:piglin": "2025-04-20 02:47:27 +0000",
+      "minecraft:enderman": "2025-04-20 03:21:54 +0000",
       "minecraft:zombie": "2025-04-20 02:21:07 +0000"
     },
     "done": false
@@ -1361,9 +1369,10 @@
       "minecraft:crimson_forest": "2025-04-20 02:25:20 +0000",
       "minecraft:nether_wastes": "2025-04-20 02:23:43 +0000",
       "minecraft:soul_sand_valley": "2025-04-20 02:31:34 +0000",
-      "minecraft:basalt_deltas": "2025-04-20 03:05:15 +0000"
+      "minecraft:basalt_deltas": "2025-04-20 03:05:15 +0000",
+      "minecraft:warped_forest": "2025-04-20 03:19:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -1590,6 +1599,126 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-04-20 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-04-20 03:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-20 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-20 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-20 03:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-20 03:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-20 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-20 03:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-20 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-20 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-20 03:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-20 03:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-20 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-20 03:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-20 03:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-20 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-20 03:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-20 03:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-20 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-20 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-20 03:44:05 +0000"
     },
     "done": true
   },

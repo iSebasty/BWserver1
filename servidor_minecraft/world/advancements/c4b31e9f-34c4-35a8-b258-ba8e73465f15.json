@@ -1212,6 +1212,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-20 03:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-20 03:48:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-20 02:58:25 +0000"
@@ -1253,6 +1265,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-20 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-20 03:47:26 +0000"
     },
     "done": true
   },
@@ -1298,9 +1316,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-20 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-20 03:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-04-20 03:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-20 03:43:00 +0000"
     },
     "done": true
   },
@@ -1340,9 +1376,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-04-20 03:16:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-20 03:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-20 03:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-20 03:17:05 +0000"
     },
     "done": true
   },
@@ -1364,15 +1418,45 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:blaze": "2025-04-20 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-20 03:43:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 03:07:41 +0000"
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-20 03:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-04-20 03:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-20 03:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-20 03:48:06 +0000"
     },
     "done": true
   },
@@ -1388,15 +1472,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-20 03:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 03:07:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-20 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-20 03:48:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-04-20 03:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-20 03:48:06 +0000"
     },
     "done": true
   },
