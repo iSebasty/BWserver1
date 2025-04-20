@@ -1,0 +1,24 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-20 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-04-20 01:36:20 +0000",
+      "minecraft:frozen_river": "2025-04-20 01:38:49 +0000",
+      "minecraft:snowy_plains": "2025-04-20 01:39:15 +0000",
+      "minecraft:stony_shore": "2025-04-20 01:38:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-04-20 01:39:11 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

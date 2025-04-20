@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "6fbc886a-cc13-3998-8d1e-024c5fe81b40",
+    "name": "iMapaxeSF",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
